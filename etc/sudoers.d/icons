@@ -1,0 +1,2 @@
+<whoami> ALL = (root) NOPASSWD: /<path to folder containing bash script and python script>/script.py
+<whoami> ALL = (root) NOPASSWD: /<path to folder containing bash script and python script>/icons.bash
