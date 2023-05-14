@@ -9,7 +9,7 @@ dictionary = {
     'notion': 'Notion.app',
     'vscode': 'Visual Studio Code.app',
     'spotify': 'Spotify.app',
-    'minecraft': 'Badlion Client.app'
+    'badlion': 'Badlion Client.app'
 }
 
 directory = './icns.iconset'
