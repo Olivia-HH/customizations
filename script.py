@@ -7,7 +7,9 @@ dictionary = {
     'discord': 'Discord.app',
     'msteams': 'Microsoft Teams.app',
     'notion': 'Notion.app',
-    'vscode': 'Visual Studio Code.app'
+    'vscode': 'Visual Studio Code.app',
+    'spotify': 'Spotify.app',
+    'minecraft': 'Badlion Client.app'
 }
 
 directory = './icns.iconset'
